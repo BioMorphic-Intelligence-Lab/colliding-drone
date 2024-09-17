@@ -1,0 +1,12 @@
+[submodule "tensegrity_flightcontroller"]
+	path = tensegrity_flightcontroller
+	url = git@github.com:BioMorphic-Intelligence-Lab/tensegrity_flightcontroller.git
+[submodule "colliding-drone-py-sim"]
+	path = colliding-drone-py-sim
+	url = git@github.com:BioMorphic-Intelligence-Lab/colliding-drone-py-sim.git
+[submodule "drone_trajectory_plots"]
+	path = drone_trajectory_plots
+	url = git@github.com:BioMorphic-Intelligence-Lab/drone_trajectory_plots.git
+[submodule "collision-based-replanning"]
+	path = collision-based-replanning
+	url = git@github.com:BioMorphic-Intelligence-Lab/collision-based-replanning.git
